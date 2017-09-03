@@ -25,6 +25,13 @@
                 </para>
             </xi:fallback>
         </xi:include>         
+        <xi:include href="edt-hu.xml">
+            <xi:fallback>
+                <para>
+                    <emphasis>XInclude: edt-hu.xml file not found</emphasis>
+                </para>
+            </xi:fallback>
+        </xi:include>                 
         <xi:include href="revhist-hu.xml">
             <xi:fallback>
                 <para>
