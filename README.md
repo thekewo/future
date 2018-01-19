@@ -2,7 +2,7 @@
 
 ## Okos város jövő számítások/Smart City Future Computing
 
-Használati eset: nap mint nap rászánok pár percet, hogy a FUTURE DEBRECEN kliensben bekattintsam azokat a tevékenységeket, amelyeket az adott napot jellemezték. Péládul:
+Használati eset: nap mint nap rászánok pár percet, hogy a FUTURE DEBRECEN kliensben bekattintsam azokat a tevékenységeket, amelyek az adott napot jellemezték. Péládul:
 
 * troliztam az egyetemre
 * vizsgáztattam
