@@ -14,6 +14,6 @@ Használati eset: nap mint nap rászánok pár percet, hogy a FUTURE DEBRECEN kl
 * API doksit olvastam, JavaFX
 * egy C++ forráson dolgoztam, FUTURE
 
-a FUTURE szimulációs motorja tegnap adja előrejelzése ezzel összevetve a projektbeli megerősítéses tanulás alapja... ennek a motornak kell majd legenerálnia a felhasználóknak felkínált alternatív valóságokat... A FUTURE minket tanul, ezért nevezzük Magyar Nemzeti Mesterséges Intelligenciának is, mely minőségében az adott hosztoló város irányítását támogathatja majd.
+a FUTURE szimulációs motorja tegnap adta előrejelzése ezzel összevetve a projektbeli megerősítéses tanulás alapja... ennek a motornak kell majd legenerálnia a felhasználóknak felkínált alternatív valóságokat... A FUTURE minket tanul, ezért nevezzük Magyar Nemzeti Mesterséges Intelligenciának is, mely minőségében az adott hosztoló város irányítását támogathatja majd.
 
 
