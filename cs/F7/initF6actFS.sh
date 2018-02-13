@@ -17,6 +17,8 @@
  # You should have received a copy of the GNU General Public License
  # along with this program.  If not, see <http://www.gnu.org/licenses/>.
  #
+ # FUTURE v.: f7.0.0.2
+ #
 mkdir City
 mkdir City/Debrecen
 mkdir City/Debrecen/Oktatás
