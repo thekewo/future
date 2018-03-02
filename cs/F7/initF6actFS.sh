@@ -17,7 +17,7 @@
  # You should have received a copy of the GNU General Public License
  # along with this program.  If not, see <http://www.gnu.org/licenses/>.
  #
- # FUTURE v.: f7.0.0.2
+ # FUTURE v.: f7.0.0.17
  #
 mkdir City
 mkdir City/Debrecen
@@ -45,78 +45,284 @@ mkdir City/Debrecen/Oktatás/Informatika/Programozás/API\ doksi\ olvasás/Tenso
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Juhász
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Juhász/Magas\ szintű\ programozási\ nyelvek
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Juhász/Magas\ szintű\ programozási\ nyelvek/Magas\ szintű\ programozási\ nyelvek.props
+
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Benedek-Levendovszky
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Benedek-Levendovszky/Szoftverfejlesztés\ C++\ nyelven
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Benedek-Levendovszky/Szoftverfejlesztés\ C++\ nyelven/Szoftverfejlesztés\ C++\ nyelven.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Benedek-Levendovszky/Szoftverfejlesztés\ C++\ nyelven/Szoftverfejlesztés\ C++\ nyelven.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 2" 			>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Benedek-Levendovszky/Szoftverfejlesztés\ C++\ nyelven/Szoftverfejlesztés\ C++\ nyelven.props
+
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Benedek-Levendovszky/Szoftverfejlesztés\ C++\ nyelven/feladatmegoldás
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Benedek-Levendovszky/Szoftverfejlesztés\ C++\ nyelven/feladatmegoldás/feladatmegoldás.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Benedek-Levendovszky/Szoftverfejlesztés\ C++\ nyelven/feladatmegoldás/feladatmegoldás.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 3" 			>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Benedek-Levendovszky/Szoftverfejlesztés\ C++\ nyelven/feladatmegoldás/feladatmegoldás.props
+
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Kernighan-Ritchie
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Kernighan-Ritchie/A\ C\ programozási\ nyelv
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Kernighan-Ritchie/A\ C\ programozási\ nyelv/A\ C\ programozási\ nyelv.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Kernighan-Ritchie/A\ C\ programozási\ nyelv/A\ C\ programozási\ nyelv.props
+echo "Belbecs/Tudás/Informatika/Programozás/C 2" 			>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Kernighan-Ritchie/A\ C\ programozási\ nyelv/A\ C\ programozási\ nyelv.props
+
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Kernighan-Ritchie/A\ C\ programozási\ nyelv/feladatmegoldás
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Kernighan-Ritchie/A\ C\ programozási\ nyelv/feladatmegoldás/feladatmegoldás.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Kernighan-Ritchie/A\ C\ programozási\ nyelv/feladatmegoldás/feladatmegoldás.props
+echo "Belbecs/Tudás/Informatika/Programozás/C 3" 			>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Kernighan-Ritchie/A\ C\ programozási\ nyelv/feladatmegoldás/feladatmegoldás.props
+
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Stroustrup
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Stroustrup/A\ C++\ programozási\ nyelv
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Stroustrup/A\ C++\ programozási\ nyelv/A\ C++\ programozási\ nyelv.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Stroustrup/A\ C++\ programozási\ nyelv/A\ C++\ programozási\ nyelv.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 2" 			>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Stroustrup/A\ C++\ programozási\ nyelv/A\ C++\ programozási\ nyelv.props
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Stroustrup/A\ C++\ programozási\ nyelv/feladatmegoldás
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Stroustrup/A\ C++\ programozási\ nyelv/feladatmegoldás/feladatmegoldás.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Stroustrup/A\ C++\ programozási\ nyelv/feladatmegoldás/feladatmegoldás.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 3" 			>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/Stroustrup/A\ C++\ programozási\ nyelv/feladatmegoldás/feladatmegoldás.props
+
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/open-std.org
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/open-std.org/C++\ szabvány
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/open-std.org/C++\ szabvány/C++\ szabvány.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/open-std.org/C++\ szabvány/C++\ szabvány.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 4" 			>> City/Debrecen/Oktatás/Informatika/Programozás/Tankönyv\ olvasás/open-std.org/C++\ szabvány/C++\ szabvány.props
+
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Nagy\ számításteljesítményű\ eszközök\ programozása
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Esport
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Vizsga
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Vizsga/elégtelen
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Vizsga/elégséges
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Vizsga/közepes
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Vizsga/jó
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Vizsga/jeles
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Előadás
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Előadás/Vizsga
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Előadás/Vizsga/elégtelen
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Előadás/Vizsga/elégséges
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Előadás/Vizsga/közepes
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Előadás/Vizsga/jó
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Előadás/Vizsga/jeles
+
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/2
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/2/szóhossz\ shifteléssel
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/2/PageRank
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/2/PageRank/C
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/2/PageRank/C++
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/2/PageRank/Java
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/2/PageRank/Python
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/2/PageRank\ elfolyása
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/2/PageRank\ elszívása
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/3
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/3/Exor-törés
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/3/Exor-törés/e.c
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/3/Exor-törés/t.c
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/elégtelen
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/elégséges
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/közepes
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/jó
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Labor/jeles
+
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Változók\ cseréje
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Változók\ cseréje/különbséggel 
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Változók\ cseréje/exorral
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Változók\ cseréje/szorzattal
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Labdapattogás\ if\ nélkül
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Labdapattogás\ if\ nélkül/C++
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Labdapattogás\ if\ nélkül/C
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Labdapattogás\ if\ nélkül/Java
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Labdapattogás\ if\ nélkül/Python
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Labdapattogás\ if\ nélkül/GUI-val
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/Qt
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/JavaFX
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/OpenGL
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/BogoMIPS
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/lex
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/lex/szó-számoló
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/lex/szám-számoló
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/lex/sor-számoló
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Bevezető/lex/betű-számoló
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Alternatív\ tabella
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Alternatív\ tabella\C++
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Alternatív\ tabella\Java
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Alternatív\ tabella\Wikipedia
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Doksi
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Doksi/Forrás\ közzététele
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Doksi/Stream
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Doksi/Stream/Videó
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Informatikai\ kultúra
-mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Informatikai\ kultúra/Gource\ videó
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/szóhossz\ shifteléssel
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/szóhossz\ shifteléssel/szóhossz\ shifteléssel.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/szóhossz\ shifteléssel/szóhossz\ shifteléssel.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/C
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/C/C.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/C/C.props
+echo "Belbecs/Tudás/Informatika/Programozás/C 1"			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/C/C.props	
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/C++
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/C++/C++.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/C++/C++.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 1"			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/C++/C++.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/Java
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/Java/Java.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/Java/Java.props
+echo "Belbecs/Tudás/Informatika/Programozás/Java 1"			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/Java/Java.props	
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/Python
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/Python/Python.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/Python/Python.props
+echo "Belbecs/Tudás/Informatika/Programozás/Python 1"			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank/Python/Python.props	
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank\ elfolyása
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank\ elfolyása/PageRank\ elfolyása.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 2" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank\ elfolyása/PageRank\ elfolyása.props 
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank\ elszívása
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank\ elszívása/PageRank\ elszívása.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 2" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/2/PageRank\ elszívása/PageRank\ elszívása.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés/e.c
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés/e.c/e.c.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés/e.c/e.c.props
+echo "Belbecs/Tudás/Informatika/Programozás/C 1"			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés/e.c/e.c.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés/t.c\ módosítás
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés/t.c\ módosítás/t.c\ módosítás.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés/t.c\ módosítás/t.c\ módosítás.props
+echo "Belbecs/Tudás/Informatika/Programozás/C 1"			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés/t.c\ módosítás/t.c\ módosítás.props	
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés/próba\ vizsga\ beugró
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés/próba\ vizsga\ beugró/próba\ vizsga\ beugró.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés/próba\ vizsga\ beugró/próba\ vizsga\ beugró.props
+echo "Belbecs/Tudás/Informatika/Programozás/C 1"			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/3/Exor-törés/próba\ vizsga\ beugró/próba\ vizsga\ beugró.props	
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/Saját\ Int\ osztály\ nyomkövetése 
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/Saját\ Int\ osztály\ nyomkövetése/Saját\ Int\ osztály\ nyomkövetése.props  
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/Saját\ Int\ osztály\ nyomkövetése/Saját\ Int\ osztály\ nyomkövetése.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 2"			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/Saját\ Int\ osztály\ nyomkövetése/Saját\ Int\ osztály\ nyomkövetése.props	
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/LZW\ binfás\ védés\ programja
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/LZW\ binfás\ védés\ programja/LZW\ binfás\ védés\ programja.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/LZW\ binfás\ védés\ programja/LZW\ binfás\ védés\ programja.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 3"			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/LZW\ binfás\ védés\ programja/LZW\ binfás\ védés\ programja.props	
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/LZW\ binfás\ védés\ programja/láncolások
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/LZW\ binfás\ védés\ programja/láncolások/láncolások.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/LZW\ binfás\ védés\ programja/láncolások/láncolások.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 1"			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/LZW\ binfás\ védés\ programja/láncolások/láncolások.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/LZW\ binfás\ védés\ programja/A\ copy\-ctor\ copy-assign-ra\ alapozása
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/LZW\ binfás\ védés\ programja/A\ copy\-ctor\ copy-assign-ra\ alapozása/A\ copy\-ctor\ copy-assign-ra\ alapozása.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/LZW\ binfás\ védés\ programja/A\ copy\-ctor\ copy-assign-ra\ alapozása/A\ copy\-ctor\ copy-assign-ra\ alapozása.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 3"			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/4/LZW\ binfás\ védés\ programja/A\ copy\-ctor\ copy-assign-ra\ alapozása/A\ copy\-ctor\ copy-assign-ra\ alapozása.props	
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/Húzódzkodás\ Challenge\ 5\ 10\ 15\ 20
+echo "Belbecs/Tulajdonság/Versenyszellem 1" 				>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/Húzódzkodás\ Challenge\ 5\ 10\ 15\ 20/Húzódzkodás\ Challenge\ 5\ 10\ 15\ 20.props
+echo "Külcsín/Állóképesség 1" 						>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/Húzódzkodás\ Challenge\ 5\ 10\ 15\ 20/Húzódzkodás\ Challenge\ 5\ 10\ 15\ 20.props
+echo "Belbecs/Tulajdonság/Kitartás 1" 					>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/Húzódzkodás\ Challenge\ 5\ 10\ 15\ 20/Húzódzkodás\ Challenge\ 5\ 10\ 15\ 20.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/Fekvőtámasz\ Challenge\ 25\ 50\ 75\ 100
+echo "Belbecs/Tulajdonság/Versenyszellem 1" 				>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/Fekvőtámasz\ Challenge\ 25\ 50\ 75\ 100/Fekvőtámasz\ Challenge\ 25\ 50\ 75\ 100.props
+echo "Külcsín/Állóképesség 1" 						>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/Fekvőtámasz\ Challenge\ 25\ 50\ 75\ 100/Fekvőtámasz\ Challenge\ 25\ 50\ 75\ 100.props
+echo "Belbecs/Tulajdonság/Kitartás 1" 					>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/Fekvőtámasz\ Challenge\ 25\ 50\ 75\ 100/Fekvőtámasz\ Challenge\ 25\ 50\ 75\ 100.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/GSOC
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/GSOC/beküldés
+echo "Belbecs/Tudás/Informatika/Programozás 10"				>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/GSOC/beküldés/beküldés.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/GSOC/elnyerés
+echo "Belbecs/Tudás/Informatika/Programozás 50"				>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/GSOC/elnyerés/elnyerés.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Változók\ cseréje
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Változók\ cseréje/különbséggel 
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Változók\ cseréje/különbséggel/különbséggel.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Változók\ cseréje/különbséggel/különbséggel.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Változók\ cseréje/exorral
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 2" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Változók\ cseréje/exorral/exorral.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 2" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Változók\ cseréje/exorral/exorral.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Változók\ cseréje/szorzattal
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 2" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Változók\ cseréje/szorzattal/szorzattal.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 2" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Változók\ cseréje/szorzattal/szorzattal.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/C++
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 5 	 	    " 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/C++/C++.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 5 " 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/C++/C++.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/C
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 5" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/C/C.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 5" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/C/C.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/Java
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 5" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/Java/Java.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 5" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/Java/Java.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/Python
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 5" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/Python/Python.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 5" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/Python/Python.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/Qt
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/Qt/Qt.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++/Qt 2" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/Qt/Qt.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 8" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/Qt/Qt.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 8" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/Qt/Qt.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/JavaFX
+echo "Belbecs/Tudás/Informatika/Programozás/Java 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/JavaFX/JavaFX.props
+echo "Belbecs/Tudás/Informatika/Programozás/Java/JavaFX 2" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/JavaFX/JavaFX.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 8" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/JavaFX/JavaFX.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 8" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/JavaFX/JavaFX.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/OpenGL
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 9" 		>>City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/OpenGL/OpenGL.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 9" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Labdapattogás\ if\ nélkül/GUI-val/OpenGL/OpenGL.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/BogoMIPS
+echo "Belbecs/Tudás/Informatika/Programozás/C 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/BogoMIPS/BogoMIPS.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/BogoMIPS/BogoMIPS.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" >> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/BogoMIPS/BogoMIPS.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/Leet-Angol\ fordító.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/C
+echo "Belbecs/Tudás/Informatika/Programozás/C 1" 			>> mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/C/C.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/C++
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 1" 			>> mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/C++/C++.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/Python
+echo "Belbecs/Tudás/Informatika/Programozás/Python 1" 			>> mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/Leet-Angol\ fordító/Python/Python.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/szó-számoló
+echo "Belbecs/Tudás/Informatika/Programozás/C 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/szó-számoló/szó-számoló.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/szó-számoló/szó-számoló.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/szó-számoló/szó-számoló.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/szám-számoló
+echo "Belbecs/Tudás/Informatika/Programozás/C 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/szám-számoló/szám-számoló.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/szám-számoló/szám-számoló.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/szám-számoló/szám-számoló.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/sor-számoló
+echo "Belbecs/Tudás/Informatika/Programozás/C 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/sor-számoló/sor-számoló.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/sor-számoló/sor-számoló.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/sor-számoló/sor-számoló.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/betű-számoló
+echo "Belbecs/Tudás/Informatika/Programozás/C 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/betű-számoló/betű-számoló.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/betű-számoló/betű-számoló.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/betű-számoló/betű-számoló.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/betű-szám-szó-sor-számoló\ C++\ változat
+echo "Belbecs/Tudás/Informatika/Programozás/C 2" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/betű-szám-szó-sor-számoló\ C++\ változat/betű-szám-szó-sor-számoló\ C++\ változat.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 2" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/betű-szám-szó-sor-számoló\ C++\ változat/betű-szám-szó-sor-számoló\ C++\ változat.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 2" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/betű-szám-szó-sor-számoló\ C++\ változat/betű-szám-szó-sor-számoló\ C++\ változat.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Bevezető/lex/betű-szám-szó-sor-számoló\ C++\ változat/betű-szám-szó-sor-számoló\ C++\ változat.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/2
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/2/Szülinapod\ 3000-ben
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/2/Szülinapod\ 3000-ben/Szülinapod\ 3000-ben.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++/Boost/DT 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/2/Szülinapod\ 3000-ben/Szülinapod\ 3000-ben.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/3
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/3/PageRank\ uBLAS
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/3/PageRank\ uBLAS/PageRank\ uBLAS.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++/Boost/UBLAS 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/3/PageRank\ uBLAS/PageRank\ uBLAS.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Alternatív\ tabella
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Alternatív\ tabella/C++
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 3" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Alternatív\ tabella/C++/C++.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 2" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Alternatív\ tabella/C++/C++.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Alternatív\ tabella/Java
+echo "Belbecs/Tudás/Informatika/Programozás/Java 3" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Alternatív\ tabella/Java/Java.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 2" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Alternatív\ tabella/Java/Java.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Alternatív\ tabella/Wikipedia
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Alternatív\ tabella/Wikipedia/Wikipedia.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/új\ verzió\ kiadása
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 2" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/új\ verzió\ kiadása/új\ verzió\ kiadása.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/C
+echo "Belbecs/Tudás/Informatika/Programozás/C 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/C/C.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/C++
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/C++/C++.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/Python
+echo "Belbecs/Tudás/Informatika/Programozás/Python 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/Python/Python.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/Boost
+echo "Belbecs/Tudás/Informatika/Programozás/C++ 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/Boost/Boost.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++/Boost/PO 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/Boost/Boost.props
+echo "Belbecs/Tudás/Informatika/Programozás/C++/Boost/FS 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/Boost/Boost.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/első\ 10
+echo "Belbecs/Tulajdonság/Versenyszellem 1" 				>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/első\ 10/első\ 10.props
+echo "Belbecs/Tulajdonság/Agilitás 1" 					>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/első\ 10/első\ 10.props
+echo "Belbecs/Tulajdonság/Teherbírás 1" 				>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard/első\ 10/első\ 10.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Doksi
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Doksi/Forrás\ közzététele
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 1" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Doksi/Forrás\ közzététele/Forrás\ közzététele.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Doksi/Stream
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Doksi/Stream/Videó
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Doksi/Stream/Videó/Videó.props
+echo "Belbecs/Tapasztalat/Közösségi 1"					>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Doksi/Stream/Videó/Videó.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Informatikai\ kultúra
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Informatikai\ kultúra/Gource\ videó
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Informatikai\ kultúra/Gource\ videó/Gource\ videó.props
 
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/UDPROG
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/UDPROG/Tutoriálás
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/UDPROG/Doksi
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/UDPROG/Doksi/Stream
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/UDPROG/Doksi/Csevegés
@@ -146,6 +352,7 @@ mkdir City/Debrecen/K+F/Informatika/EFOP363/esport-talent-search
 mkdir City/Debrecen/K+F/Informatika/EFOP363/esport-talent-search/mérés
 mkdir City/Debrecen/K+F/Informatika/EFOP363/esport-talent-search/cikk
 mkdir City/Debrecen/K+F/Informatika/EFOP363/esport-talent-search/TDK
+mkdir City/Debrecen/K+F/Informatika/EFOP363/DEAC-Hackers\ Almanach
 mkdir City/Debrecen/K+F/Informatika/EFOP363/FUTURE
 mkdir City/Debrecen/K+F/Informatika/EFOP363/FUTURE/Tulajdonságok\ és\ aktivitások\ szerkesztése
 mkdir City/Debrecen/K+F/Informatika/EFOP363/FUTURE/cikk
@@ -174,7 +381,7 @@ mkdir City/Debrecen/K+F/Informatika/FUTURE/Aktivitás\ szerkesztő
 mkdir City/Debrecen/K+F/Informatika/FUTURE/Aktivitás\ szerkesztő/JavaFX
 mkdir City/Debrecen/K+F/Informatika/FUTURE/Aktivitás\ böngésző
 mkdir City/Debrecen/K+F/Informatika/FUTURE/Aktivitás\ böngésző/C++
-mkdir City/Debrecen/K+F/Informatika/FUTURE/Aktivitás\ böngésző/Python
+mkdir City/Debrecen/K+F/Informatika/FUTURE/Aktivitás\ böngésző/PHP
 mkdir City/Debrecen/K+F/Informatika/FUTURE/Aktivitás\ böngésző/MySQL
 mkdir City/Debrecen/K+F/Informatika/FUTURE/Magyar\ Nemzeti\ Mesterséges\ Intelligencia
 
@@ -184,16 +391,32 @@ mkdir City/Debrecen/Szórakozás/Játék/Elektronikus
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/LoL
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/LoL/Lövész
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/LoL/Támogató
-mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/LoL/Támogató/Taric
-mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/LoL/Támogató/Thresh
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/LoL/Dzsungel
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/LoL/Top
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/LoL/Mid
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/LoL/Rangsorolt
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/LoL/Rangsorolt/Egyéni
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/LoL/Rangsorolt/Csapat
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/LoL/Rangsorolt/TT
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MOBA/DOTA
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/CSGO
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/CoD
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/FPS/RB6S
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/RTS
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/RTS/0AD
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/CCG
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/CCG/HS
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MMO
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/PC/MMO/WoT
+
+
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/Konzol
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/Mobil
 mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/Mobil/CoC
+mkdir City/Debrecen/Szórakozás/Játék/Elektronikus/Mobil/CR
 
 mkdir City/Debrecen/Szórakozás/Film
 mkdir City/Debrecen/Szórakozás/Film/Kapcsolat
@@ -201,10 +424,14 @@ mkdir City/Debrecen/Szórakozás/Film/Pixel
 mkdir City/Debrecen/Szórakozás/Film/Kódjátszma
 mkdir City/Debrecen/Szórakozás/Film/A\ Közösségi\ háló
 mkdir City/Debrecen/Szórakozás/Könyv
-mkdir City/Debrecen/Szórakozás/Könyv/Penrose-Hameroff
-mkdir City/Debrecen/Szórakozás/Könyv/Penrose-Hameroff/A\ császár\ új\ elméje
-mkdir City/Debrecen/Szórakozás/Könyv/Sagan
-mkdir City/Debrecen/Szórakozás/Könyv/Sagan/Kapcsolat
+mkdir City/Debrecen/Szórakozás/Könyv/Ismeretterjesztő
+mkdir City/Debrecen/Szórakozás/Könyv/Ismeretterjesztő/Informatika
+mkdir City/Debrecen/Szórakozás/Könyv/Ismeretterjesztő/Informatika/Penrose-Hameroff
+mkdir City/Debrecen/Szórakozás/Könyv/Ismeretterjesztő/Informatika/Penrose-Hameroff/A\ császár\ új\ elméje
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 3" 		>> City/Debrecen/Szórakozás/Könyv/Ismeretterjesztő/Informatika/Penrose-Hameroff/A\ császár\ új\ elméje/A\ császár\ új\ elméje.props
+mkdir City/Debrecen/Szórakozás/Könyv/Sci-fi
+mkdir City/Debrecen/Szórakozás/Könyv/Sci-fi/Sagan
+mkdir City/Debrecen/Szórakozás/Könyv/Sci-fi/Sagan/Kapcsolat
 
 mkdir City/Debrecen/Sport
 mkdir City/Debrecen/Sport/Esport
@@ -214,12 +441,17 @@ echo "Belbecs/Tapasztalat/Közösségi 80" >> City/Debrecen/Sport/Esport/DEAC-Ha
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Lövész
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Támogató
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Dzsungel
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Top
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Mid
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Rangsorolt
-mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Rangsorolt/Támogató
-mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Rangsorolt/Támogató/Taric
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Rangsorolt/Egyéni
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Rangsorolt/Csapat
+mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Rangsorolt/TT
+
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Custom
-mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Custom/Támogató
-mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Custom/Támogató/Taric
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Közösségi
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Rangsor
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL/Rangsor/B
