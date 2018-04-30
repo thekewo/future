@@ -319,7 +319,7 @@ echo "Belbecs/Tudás/Informatika/Programozás/C++ 1"			>> City/Debrecen/Oktatás
 echo "Belbecs/Tudás/Informatika/Programozás/C++/Qt 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/9/BrainB\ benchmark/BrainB\ benchmark.props
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/10
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/10/Buggy\ allokátor
-echo "Belbecs/Tudás/Informatika/Informatikai kultúra 8" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/10/Buggy\ allokátor/Buggy allokátor.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 10" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/10/Buggy\ allokátor/Buggy allokátor.props
 echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 12" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/10/Buggy\ allokátor/Buggy allokátor.props
 echo "Belbecs/Tudás/Informatika/Programozás/C/Memóriakezelés 4" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/10/Buggy\ allokátor/Buggy allokátor.props
 echo "Belbecs/Tudás/Informatika/Programozás/C++ 8"			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/10/Buggy\ allokátor/Buggy allokátor.props
@@ -474,9 +474,14 @@ mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előad
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/rendszerhívás
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/kernel\ modul
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/rendszerhívás/köv.\ szabad\ fájl\ leíró
+echo "Belbecs/Tudás/Informatika/Programozás/C 5" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/rendszerhívás/köv.\ szabad\ fájl\ leíró/köv.\ szabad\ fájl\ leíró.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 10" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/rendszerhívás/köv.\ szabad\ fájl\ leíró/köv.\ szabad\ fájl\ leíró.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 18" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/rendszerhívás/köv.\ szabad\ fájl\ leíró/köv.\ szabad\ fájl\ leíró.props
+
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/kernel\ modul/köv.\ szabad\ fájl\ leíró
-
-
+echo "Belbecs/Tudás/Informatika/Programozás/C 4" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/kernel\ modul/köv.\ szabad\ fájl\ leíró/köv.\ szabad\ fájl\ leíró.props
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 7" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/kernel\ modul/köv.\ szabad\ fájl\ leíró/köv.\ szabad\ fájl\ leíró.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 11" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/kernel\ modul/köv.\ szabad\ fájl\ leíró/köv.\ szabad\ fájl\ leíró.props
 
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard
@@ -809,9 +814,6 @@ mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/Mobil/CoC/Rangsor/T/I
 echo "Belbecs/Tudás/Informatika/Játékkultúra/Mobil/CoC 1600"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/Mobil/CoC/Rangsor/T/I/I.props
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/Mobil/CoC/Rangsor/L
 echo "Belbecs/Tudás/Informatika/Játékkultúra/Mobil/CoC 1800"		>>  City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/Mobil/CoC/Rangsor/L/L.props
-
-
-
 
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA
 mkdir City/Debrecen/Sport/Esport/DEAC-Hackers/Játék/MOBA/LoL
