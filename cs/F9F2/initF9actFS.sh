@@ -17,7 +17,7 @@
  # You should have received a copy of the GNU General Public License
  # along with this program.  If not, see <http://www.gnu.org/licenses/>.
  #
- # FUTURE v.: f9f2tb.0.0.40
+ # FUTURE v.: f9f2tb.0.0.42
  #
 mkdir City
 mkdir City/Debrecen
@@ -334,7 +334,20 @@ echo "Belbecs/Tudás/Informatika/Programozás/C++/Boost/API" 		>> City/Debrecen/
 echo "Belbecs/Tudás/Informatika/Programozás/C++ 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/FUTURE/fénykard/Boost/szimulált\ rangsor/Bemenő\ tevékenységek\ parancssorban\ szóközzel/Bemenő\ tevékenységek\ parancssorban\ szóközzel.props
 echo "Belbecs/Tudás/Informatika/Programozás/C++/Boost/PO 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/FUTURE/fénykard/Boost/szimulált\ rangsor/Bemenő\ tevékenységek\ parancssorban\ szóközzel/Bemenő\ tevékenységek\ parancssorban\ szóközzel.props
 echo "Belbecs/Tudás/Informatika/Programozás/C++/STL 1" 			>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/FUTURE/fénykard/Boost/szimulált\ rangsor/Bemenő\ tevékenységek\ parancssorban\ szóközzel/Bemenő\ tevékenységek\ parancssorban\ szóközzel.props
-
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot/P-szálak
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 2" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot/P-szálak/P-szálak.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 3" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot/P-szálak/P-szálak.props
+echo "Belbecs/Tudás/Informatika/Programozás/Párhuzamos programozás 3" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot/P-szálak/P-szálak.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot/OpenMP
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 3" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot/OpenMP/OpenMP.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 4" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot/OpenMP/OpenMP.props
+echo "Belbecs/Tudás/Informatika/Programozás/Párhuzamos programozás 4" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot/OpenMP/OpenMP.props
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot/CUDA
+echo "Belbecs/Tudás/Informatika/Informatikai kultúra 4" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot/CUDA/CUDA.props
+echo "Belbecs/Tudás/Informatika/Programozás/Programozói szemlélet 6" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot/CUDA/CUDA.props
+echo "Belbecs/Tudás/Informatika/Programozás/Párhuzamos programozás 6" 	>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Labor/11/Mandelbrot/CUDA/CUDA.props
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Kiegészítő/Húzódzkodás\ Challenge\ 5\ 10\ 15\ 20
@@ -456,6 +469,14 @@ echo "Belbecs/Tudás/Informatika/Informatikai kultúra 2" 		>> City/Debrecen/Okt
 
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Alternatív\ tabella/Wikipedia
 echo "Belbecs/Tudás/Informatika/Informatikai kultúra 1" 		>> City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Alternatív\ tabella/Wikipedia/Wikipedia.props
+
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/rendszerhívás
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/kernel\ modul
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/rendszerhívás/köv.\ szabad\ fájl\ leíró
+mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/Linux\ kernel/kernel\ modul/köv.\ szabad\ fájl\ leíró
+
+
 
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE
 mkdir City/Debrecen/Oktatás/Informatika/Programozás/DEIK/Prog1/Példák/Előadás/FUTURE/fénykard
@@ -588,6 +609,8 @@ mkdir City/Debrecen/K+F
 mkdir City/Debrecen/K+F/Informatika
 mkdir City/Debrecen/K+F/Informatika/EFOP363
 mkdir City/Debrecen/K+F/Informatika/EFOP363/Adminisztráció
+mkdir City/Debrecen/K+F/Informatika/EFOP363/Adminisztráció/Szervezés
+mkdir City/Debrecen/K+F/Informatika/EFOP363/Adminisztráció/Egyeztetés
 mkdir City/Debrecen/K+F/Informatika/EFOP363/esport-talent-search
 mkdir City/Debrecen/K+F/Informatika/EFOP363/esport-talent-search/mérés
 mkdir City/Debrecen/K+F/Informatika/EFOP363/esport-talent-search/cikk
@@ -600,6 +623,8 @@ mkdir City/Debrecen/K+F/Informatika/EFOP363/FUTURE/TDK
 
 mkdir City/Debrecen/K+F/Informatika/EFOP361
 mkdir City/Debrecen/K+F/Informatika/EFOP361/Adminisztráció
+mkdir City/Debrecen/K+F/Informatika/EFOP361/Adminisztráció/Szervezés
+mkdir City/Debrecen/K+F/Informatika/EFOP361/Adminisztráció/Egyeztetés
 mkdir City/Debrecen/K+F/Informatika/EFOP361/FUTURE
 mkdir City/Debrecen/K+F/Informatika/EFOP361/FUTURE/motor\ gyors\ protók
 mkdir City/Debrecen/K+F/Informatika/EFOP361/FUTURE/cikk
@@ -607,6 +632,8 @@ mkdir City/Debrecen/K+F/Informatika/EFOP361/FUTURE/TDK
 
 mkdir City/Debrecen/K+F/Informatika/DETEP
 mkdir City/Debrecen/K+F/Informatika/DETEP/Adminisztráció
+mkdir City/Debrecen/K+F/Informatika/DETEP/Adminisztráció/Szervezés
+mkdir City/Debrecen/K+F/Informatika/DETEP/Adminisztráció/Szervezés/Egyeztetés
 mkdir City/Debrecen/K+F/Informatika/DETEP/esport-talent-search
 mkdir City/Debrecen/K+F/Informatika/DETEP/esport-talent-search/mérés
 mkdir City/Debrecen/K+F/Informatika/DETEP/esport-talent-search/cikk
