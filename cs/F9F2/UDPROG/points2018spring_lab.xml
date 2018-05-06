@@ -37,9 +37,16 @@
 </student>
       
 <student>
+      <name>Ferenczi Fruzsina</name>
+      <points>9.6</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1a8voJZ2-9gkkExJ9wN_vNZAz-gKV_jUe82ALaUHyx-M/edit?usp=sharing</bookingurl>
+</student>
+
+<student>
       <name>Koós Zoltán</name>
       <points>18.72</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1B3ixH7c1s4pnzt41o1h-nX-pGuDDOAUnfj2roK3EUPA/edit?usp=sharing</bookingurl>
 </student>    
+
 
 </udprogpoints>
