@@ -81,7 +81,17 @@ int get_points ( boost::filesystem::path file )
 
                 std::string val = line.substr ( l, r );
 
-                points += std::stoi ( val );
+                try {
+		  
+                        points += std::stoi ( val );
+			
+                } catch (std::invalid_argument e) {
+
+		  std::cerr << line << std::endl;
+		  std::cerr << val << std::endl;		  
+		  throw e;
+		  
+                }
         }
 
         return points;
