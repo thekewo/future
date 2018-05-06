@@ -37,6 +37,12 @@
 </student>
       
 <student>
+      <name>Hamza Sándor</name>
+      <points>97,6</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1AyJpPHaFBqT5RyYwWJ26GhMU6TqDKdUqtUJbHFexg0Y/edit?usp=sharing</bookingurl>
+</student>
+      
+<student>
       <name>Csicsek Máté</name>
       <points>190,74</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1yyH1I2uIqEYV01ftqqTwP0BBJuyQymTn7OZGq8Rqbsg/edit?usp=sharing</bookingurl>
@@ -47,11 +53,11 @@
       <points>136.8</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1-zrgvowtIgoR-QEVY_EyJlZKcRBidp8m4M6vT_STlF4/edit#gid=0</bookingurl>
 </student>      
-           
+      
 <student>
-      <name>Versényi Péter/name>
-      <points>540.8</points>
-      <bookingurl>https://docs.google.com/spreadsheets/d/1BmhvBD0IOP1ys2Yt20D7jCSHTXxaSrQCDteomrUrkeI/edit?usp=sharing</bookingurl>
-</student>   
+<name>Rácz Marco</name>
+<points>106.08</points>
+<bookingurl>https://docs.google.com/spreadsheets/d/1QtSxkTWKtkrHZdDkI44ouGZTqyHviwmh7Gm8CVRA3aI/edit?usp=sharing</bookingurl>
+</student>  
       
 </udprogpoints>
