@@ -20,7 +20,7 @@
 
 <student>
       <name>Nagy Márta</name>
-      <points>415.6</points>
+      <points>385.8</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1Fa9j-d6g0VehziC--CTRTsUG_7acPLdqI5dbp6aXvKc/edit?usp=sharing</bookingurl>
 </student>
 
@@ -58,6 +58,12 @@
 <name>Rácz Marco</name>
 <points>106.08</points>
 <bookingurl>https://docs.google.com/spreadsheets/d/1QtSxkTWKtkrHZdDkI44ouGZTqyHviwmh7Gm8CVRA3aI/edit?usp=sharing</bookingurl>
+</student>  
+      
+ <student>
+      <name>Bujdosó Péter</name>
+      <points>193,92</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1UctPxAAPWe7O4Y2j0u9Ap8ZW_JnsvQT8_AipAh2uQds/edit?usp=sharing</bookingurl>
 </student>  
       
 </udprogpoints>
