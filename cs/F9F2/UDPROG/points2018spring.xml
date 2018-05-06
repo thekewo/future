@@ -1,6 +1,12 @@
 <udprogpoints>
 
 <student>
+      <name>Dobi Gergő</name>
+      <points>118.8</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/10LNBnytl9dn7lkZ_K_Fga3_ofJIjtznVXZ0-vQ5esWw/edit#gid=0</bookingurl>
+</student>
+      
+<student>
       <name>Szabó Sándor Miklós</name>
       <points>159.632</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1JpDQeEt6FZ3hjIM9HNTlaM69Iu14vCrd2RMASTthaHc/edit?usp=sharing</bookingurl>
@@ -28,5 +34,30 @@
       <name>Tóth Balázs/name>
       <points>118.8</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/16uTpOmaFeOInXZBfK9HWWN48m3tt_4g2v9UDikkatLQ/edit?usp=sharing</bookingurl>
+</student>
+      
+<student>
+      <name>Hamza Sándor</name>
+      <points>97,6</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1AyJpPHaFBqT5RyYwWJ26GhMU6TqDKdUqtUJbHFexg0Y/edit?usp=sharing</bookingurl>
+</student>
+      
+<student>
+      <name>Csicsek Máté</name>
+      <points>190,74</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1yyH1I2uIqEYV01ftqqTwP0BBJuyQymTn7OZGq8Rqbsg/edit?usp=sharing</bookingurl>
+</student>
+      
+<student>
+      <name>Kiss Tamás</name>
+      <points>136.8</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1-zrgvowtIgoR-QEVY_EyJlZKcRBidp8m4M6vT_STlF4/edit#gid=0</bookingurl>
 </student>      
+      
+<student>
+<name>Rácz Marco</name>
+<points>106.08</points>
+<bookingurl>https://docs.google.com/spreadsheets/d/1QtSxkTWKtkrHZdDkI44ouGZTqyHviwmh7Gm8CVRA3aI/edit?usp=sharing</bookingurl>
+</student>  
+      
 </udprogpoints>
