@@ -46,7 +46,13 @@
       <name>Koós Zoltán</name>
       <points>18.72</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1B3ixH7c1s4pnzt41o1h-nX-pGuDDOAUnfj2roK3EUPA/edit?usp=sharing</bookingurl>
-</student>    
+</student>   
+      
+<student>
+      <name>Tóth Csaba</name>
+      <points>24.00</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1VUTziFiBvRXlSO4142tEm1UOKYxrcer0vDO5NmvpJ54/edit#gid=0</bookingurl>
+</student>
 
 
 </udprogpoints>
