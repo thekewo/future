@@ -25,13 +25,13 @@
 </student>
 
 <student>
-      <name>Tóth Norbert/name>
+      <name>Tóth Norbert</name>
       <points>73.2</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1H7D8wE16WVDRtzeRvCO3R7j6P7BaOgGHpTXUpr37khg/edit?usp=sharing</bookingurl>
 </student>
       
 <student>
-      <name>Tóth Balázs/name>
+      <name>Tóth Balázs</name>
       <points>118.8</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/16uTpOmaFeOInXZBfK9HWWN48m3tt_4g2v9UDikkatLQ/edit?usp=sharing</bookingurl>
 </student>
@@ -66,13 +66,13 @@
       <bookingurl>https://docs.google.com/spreadsheets/d/1UctPxAAPWe7O4Y2j0u9Ap8ZW_JnsvQT8_AipAh2uQds/edit?usp=sharing</bookingurl>
 </student>  
       
-</student>      
+<student>      
       <name>Tóth Csaba</name>
       <points>24.00</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1VUTziFiBvRXlSO4142tEm1UOKYxrcer0vDO5NmvpJ54/edit#gid=0</bookingurl>
 </student>
  
-</student>      
+<student>      
       <name>Versényi Péter</name>
       <points>551.80</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1BmhvBD0IOP1ys2Yt20D7jCSHTXxaSrQCDteomrUrkeI/edit?usp=sharing</bookingurl>
