@@ -5,7 +5,13 @@
       <points></points>
       <bookingurl></bookingurl>
 </student>
-
+      
+<student>
+      <name>Löki Tamás</name>
+      <points>34.8</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/123oTdbvlO5S43HhztXonWYCpQYGH3XvPv4XmAs1bS04/edit?usp=sharing</bookingurl>
+</student>
+      
 <student>
       <name>Dobi Gergő</name>
       <points>118.8</points>
@@ -34,6 +40,30 @@
       <name>Csicsek Máté</name>
       <points>18.72</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1ZMkZwWsoDd4_OAJ7Cv-1UqNKKMkWTopHSgdpUk6GVMw/edit?usp=sharing</bookingurl>
+</student>
+      
+<student>
+      <name>Ferenczi Fruzsina</name>
+      <points>9.6</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1a8voJZ2-9gkkExJ9wN_vNZAz-gKV_jUe82ALaUHyx-M/edit?usp=sharing</bookingurl>
+</student>
+
+<student>
+      <name>Koós Zoltán</name>
+      <points>18.72</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1B3ixH7c1s4pnzt41o1h-nX-pGuDDOAUnfj2roK3EUPA/edit?usp=sharing</bookingurl>
+</student>   
+      
+<student>
+      <name>Tóth Csaba</name>
+      <points>24.00</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1VUTziFiBvRXlSO4142tEm1UOKYxrcer0vDO5NmvpJ54/edit#gid=0</bookingurl>
+</student>
+      
+<student>
+<name>Hidi Erik Zoltán</name>
+<points>111</points>
+<bookingurl>https://drive.google.com/drive/folders/1l4a3iCPWzeu_KjQo2KP0vVcE66dKHO0y?usp=sharing</bookingurl>
 </student>
 
 </udprogpoints>
