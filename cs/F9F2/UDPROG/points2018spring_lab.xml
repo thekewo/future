@@ -1,9 +1,9 @@
 <udprogpoints>
 
 <student>
-      <name></name>
-      <points></points>
-      <bookingurl></bookingurl>
+      <name>Oszkocsil Krisztián</name>
+      <points>271,6</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1rbch1kAXnDQqwgqiDhAt9gp0TkI4C6VZ18v8XkByhdA/edit?usp=sharing</bookingurl>
 </student>
       
 <student>
@@ -38,7 +38,7 @@
       
 <student>
       <name>Csicsek Máté</name>
-      <points>18.72</points>
+      <points>19.68</points>
       <bookingurl>https://docs.google.com/spreadsheets/d/1ZMkZwWsoDd4_OAJ7Cv-1UqNKKMkWTopHSgdpUk6GVMw/edit?usp=sharing</bookingurl>
 </student>
       
@@ -66,4 +66,30 @@
 <bookingurl>https://drive.google.com/drive/folders/1l4a3iCPWzeu_KjQo2KP0vVcE66dKHO0y?usp=sharing</bookingurl>
 </student>
 
+<student>      
+      <name>Misurák Ladislav</name>
+      <points>13.2</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1XYDGut_ypewFgPgzXFTuhop-U5SN6oY-B9oI2G3C3UE/edit#gid=477622543</bookingurl>
+</student>
+      
+<student>
+      <name>Bartalis Vilmos</name>
+      <points>15.6</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/15cVzDRrP54PAsNRA0XcIKM8xKwb_InYsRNEWvliNqf8/edit?usp=sharing</bookingurl>
+</student>
+      
+ <student>
+      <name>Udvardy Márton</name>
+      <points>21.6</points>
+      <bookingurl>https://docs.google.com/spreadsheets/d/1lO-hxzB45ychqanvrmBevBrMCz2EUs4KMQi4g6ZOcLk/edit?usp=sharing</bookingurl>
+</student>
+
+ <student>
+      <name>Csipkés Gergő</name>
+      <points>184</points>
+      <bookingurl>https://drive.google.com/open?id=15Xqa4vn42N8mb29uBL4INgkgeXJtxsPK</bookingurl>
+</student>
+
+
+      
 </udprogpoints>
